@@ -1,2 +1,3 @@
 # PPDB
- Penerimaan Peserta Didik Baru
+Deskripsi lengkap In Progress
+- Dibuat mengunakan Codeigniter & Materialize CSS
